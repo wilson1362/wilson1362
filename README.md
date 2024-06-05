@@ -1,6 +1,4 @@
 - 👋 Brazil, 18y
-- 👀 games and programmation
-- 🌱 i'm staring with java, css and html
 - 📫 wilsonmathias1234@gmail.com
 
 <!---
